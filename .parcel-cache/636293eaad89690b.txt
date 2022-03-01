@@ -3258,7 +3258,7 @@
 41/home/ark/porto/node_modules/yaml/LICENSE1646098542602227085 0
 65/home/ark/porto/node_modules/three/src/geometries/ConeGeometry.js1646098514550327764 0
 55/home/ark/porto/node_modules/fs-extra/lib/copy/index.js1646099215898294687 0
-38/home/ark/porto/dist/porto.59712999.js1646099447291542682 0
+38/home/ark/porto/dist/porto.59712999.js1646099492423702536 0
 91/home/ark/porto/node_modules/@parcel/core/test/fixtures/invalid-source-missing/package.json1646098543910222309 0
 79/home/ark/porto/node_modules/three/examples/jsm/modifiers/TessellateModifier.js1646098515030326070 0
 60/home/ark/porto/node_modules/fs-extra/lib/copy-sync/index.js1646099215886294600 0
@@ -3293,7 +3293,7 @@
 40/home/ark/porto/node_modules/.bin/cssesc1646098544922218609 0
 116/home/ark/porto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/a/index.js1646098543094225289 0
 53/home/ark/porto/node_modules/utility-types/SUPPORT.md1646098542766226486 0
-20/home/ark/porto/dist1646099447291542682 1
+20/home/ark/porto/dist1646099495791713558 1
 64/home/ark/porto/node_modules/caniuse-lite/data/features/http3.js1646098543538223668 0
 37/home/ark/porto/node_modules/css-tree1646098543310224500 1
 66/home/ark/porto/node_modules/three/src/animation/AnimationMixer.js1646098514450328117 0
@@ -3493,7 +3493,7 @@
 60/home/ark/porto/node_modules/htmlparser2/lib/Parser.d.ts.map1646098542730226618 0
 72/home/ark/porto/node_modules/@parcel/transformer-svg/lib/dependencies.js1646098542974225728 0
 60/home/ark/porto/node_modules/caniuse-lite/data/regions/SZ.js1646098543882222411 0
-31/home/ark/porto/dist/index.html1646099447235542468 0
+31/home/ark/porto/dist/index.html1646099495791713558 0
 47/home/ark/porto/node_modules/lodash/subtract.js1646099216162296598 0
 51/home/ark/porto/node_modules/lodash/_baseMatches.js1646099215946295035 0
 69/home/ark/porto/node_modules/@parcel/transformer-js/lib/loadNative.js1646098543102225260 0
@@ -3671,7 +3671,7 @@
 38/home/ark/porto/node_modules/nth-check1646098542678226808 1
 60/home/ark/porto/node_modules/three/src/helpers/Box3Helper.js1646098514490327976 0
 97/home/ark/porto/node_modules/three/src/renderers/shaders/ShaderChunk/normal_fragment_maps.glsl.js1646098514846326720 0
-42/home/ark/porto/dist/porto.59712999.js.map1646099447291542682 0
+42/home/ark/porto/dist/porto.59712999.js.map1646099492427702549 0
 42/home/ark/porto/node_modules/yaml/index.js1646098542774226457 0
 41/home/ark/porto/node_modules/yaml/browser1646098542982225698 1
 48/home/ark/porto/node_modules/nanoid/package.json1646098542798226370 0
@@ -3752,7 +3752,7 @@
 51/home/ark/porto/node_modules/lodash/_baseIsMatch.js1646099215938294977 0
 60/home/ark/porto/node_modules/css-tree/lib/syntax/node/CDC.js1646098542782226428 0
 41/home/ark/porto/node_modules/csso/LICENSE1646098542598227099 0
-28/home/ark/porto/package.json1646099440059514893 0
+28/home/ark/porto/package.json1646099611916024516 0
 45/home/ark/porto/node_modules/lodash/remove.js1646099216146296482 0
 66/home/ark/porto/node_modules/csso/lib/restructure/1-mergeAtrule.js1646098542630226983 0
 70/home/ark/porto/node_modules/type-fest/source/require-exactly-one.d.ts1646098542862226136 0
