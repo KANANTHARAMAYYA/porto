@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "description": "port",
   "source": "src/index.html",
-  "main": "index.js",
   "scripts": {
-    "start" : "parcel src/index.html",
-    "build" : "parcel build"
-    
+    "predeploy": "npm run start",
+    "deploy": "gh-pages -d dist",
+    "start": "parcel src/index.html",
+    "build": "parcel build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "three": "^0.138.1"
   },
   "devDependencies": {
